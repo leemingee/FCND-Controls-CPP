@@ -77,7 +77,6 @@
     <ClCompile Include="..\src\Simulation\BaseDynamics.cpp">
       <Filter>Simulation</Filter>
     </ClCompile>
-    <ClCompile Include="..\src\QuadControl.cpp" />
     <ClCompile Include="..\src\MavlinkNode\PracticalSocket.cpp">
       <Filter>MavlinkNode</Filter>
     </ClCompile>
@@ -90,6 +89,7 @@
     <ClCompile Include="..\src\Math\Geometry.cpp">
       <Filter>Math</Filter>
     </ClCompile>
+    <ClCompile Include="..\src\QuadControl.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\src\Math\Quaternion.h">
