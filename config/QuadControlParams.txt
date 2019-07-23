@@ -24,15 +24,15 @@ kpPosZ = 35
 KiPosZ = 90
 
 # Velocity control gains
-kpVelXY = 10
-kpVelZ = 17
+kpVelXY = 21
+kpVelZ = 21
 
 # Angle control gains
-kpBank = 20
-kpYaw = 2
+kpBank =14.0
+kpYaw = 2.0
 
 # Angle rate gains
-kpPQR = 100, 100, 38
+kpPQR = 50, 50, 10
 
 # limits
 maxAscentRate = 5
